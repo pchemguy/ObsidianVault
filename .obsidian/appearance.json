@@ -1,0 +1,10 @@
+{
+  "cssTheme": "",
+  "translucency": false,
+  "accentColor": "",
+  "theme": "moonstone",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "Remove external link space"
+  ]
+}

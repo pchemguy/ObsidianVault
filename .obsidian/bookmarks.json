@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1714380146902,
+      "path": "qqq/Untitled.canvas",
+      "title": "eeee"
+    },
+    {
+      "type": "group",
+      "ctime": 1714380166546,
+      "items": [],
+      "title": "eee"
+    },
+    {
+      "type": "group",
+      "ctime": 1714380174466,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1714380182429,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1714380190606,
+              "items": [],
+              "title": "ddgroup"
+            }
+          ],
+          "title": "Untitled dddgroup"
+        }
+      ],
+      "title": "ddd"
+    }
+  ]
+}

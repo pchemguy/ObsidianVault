@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "eb5765f8faa795f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3817222fd95b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255606a184c3af34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a8b69309dfc60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b49cc9c4e6682101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4690b783e2b1cafb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1b34b8507362f4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d64ac31136be841",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "564cc1426e058b0d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mk-path-view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.51103591918945
+  },
+  "right": {
+    "id": "e3f02b7a21658c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "107f178b786eb26b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329df84817d5d0a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f4025664405d1e48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "f01a4bf7adb81683",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Project Manager.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Manager"
+            }
+          },
+          {
+            "id": "5f33cbeea60985ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "29aa35481f463a8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Science/LLM Methodology/In-Context Learning/Paper Review/Material/Notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
+            }
+          },
+          {
+            "id": "c861b3b32e7e1f54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Science/LLM Methodology/In-Context Learning/Paper Review/Material/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
+            }
+          },
+          {
+            "id": "24c6e4bf99aad476",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "webpage-html-export:Export as HTML": false,
+      "ketcher:Create new structure": false
+    }
+  },
+  "active": "5f33cbeea60985ae",
+  "lastOpenFiles": [
+    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Building Consistent Workflows with Codex CLI & Agents SDK.md",
+    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Project Manager.md",
+    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/TASK_LIST.md",
+    "$_.agent/skills/create-plan/SKILL.md",
+    "docs/Building Consistent Workflows with Codex CLI & Agents SDK",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/pdf/SKILL.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/create-plan/SKILL.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/SKILL.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/SKILL.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/wrapped/SKILL.md",
+    "CODEX_WEB_SKILLS.md",
+    "docs/AgentSkills/openai/Agent Skills.md",
+    "README.md",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/SKILL.md",
+    "AGENTS.md",
+    "$_.agent/skills/create-plan/LICENSE.txt",
+    "$_.agent/skills/create-plan",
+    "$_.agent/skills",
+    "$_.agent",
+    "$_.codex/skills/create-plan/SKILL.md",
+    "$_.codex/skills/create-plan/LICENSE.txt",
+    "$_.codex/skills/create-plan",
+    "$_.codex/skills",
+    "$_.codex",
+    "docs/AgentSkills/openai/skills/skills/$_.system/Untitled.md",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/scripts/list-skills.py",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/assets/skill-installer.png",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/assets/skill-installer-small.svg",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-creator/references/openai_yaml.md",
+    "docs/AgentSkills/openai/skills/skills/$_.system/skill-creator/SKILL.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/project_context.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/loop_quality.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/json_fix.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/execution_explanation.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/default.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/commands.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/references/json_fix.md",
+    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/references/generate_prompt.md",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/yeet/assets/yeet.png",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/yeet/assets/yeet-small.svg",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/vercel-deploy/assets/vercel.png",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/vercel-deploy/assets/vercel-small.svg",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/spreadsheet/assets/spreadsheet.png",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/spreadsheet/assets/spreadsheet-small.svg",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/transcribe/assets/transcribe.png",
+    "docs/AgentSkills/openai/skills/skills/$_.curated/transcribe/assets/transcribe-small.svg"
+  ]
+}

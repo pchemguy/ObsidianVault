@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgexport",
+      "name": "Export and Import",
+      "plugins": [
+        {
+          "id": "obsidian-enhancing-export",
+          "name": "Enhancing Export"
+        },
+        {
+          "id": "obsidian-markdown-export-plugin",
+          "name": "markdown export"
+        },
+        {
+          "id": "obsidian-pandoc",
+          "name": "Pandoc Plugin"
+        },
+        {
+          "id": "webpage-html-export",
+          "name": "Webpage HTML Export"
+        },
+        {
+          "id": "obsidian-excel-to-markdown-table",
+          "name": "Excel to Markdown Table"
+        },
+        {
+          "id": "obsidian-importer",
+          "name": "Importer"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgintegration",
+      "name": "Integration",
+      "plugins": [
+        {
+          "id": "obsidian-languagetool-plugin",
+          "name": "LanguageTool Integration"
+        },
+        {
+          "id": "obsidian-zotero-desktop-connector",
+          "name": "Zotero Integration"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pggui",
+      "name": "GUI",
+      "plugins": [
+        {
+          "id": "editing-toolbar",
+          "name": "Editing Toolbar"
+        },
+        {
+          "id": "obsidian-emoji-toolbar",
+          "name": "Emoji Toolbar"
+        },
+        {
+          "id": "obsidian-icon-folder",
+          "name": "Iconize"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

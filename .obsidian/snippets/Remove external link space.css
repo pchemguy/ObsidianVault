@@ -1,0 +1,5 @@
+/* remove the arrow */
+.external-link {
+  background-image: none;
+  padding: 0;
+}

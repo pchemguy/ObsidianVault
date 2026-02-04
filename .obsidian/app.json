@@ -1,0 +1,17 @@
+{
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "useTab": false,
+  "propertiesInDocument": "visible",
+  "readableLineLength": false,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 54
+  },
+  "alwaysUpdateLinks": true,
+  "promptDelete": true
+}
