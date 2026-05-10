@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3817222fd95b6b",
+        "id": "bec429a77bc3dcf8",
         "type": "tabs",
         "children": [
           {
-            "id": "255606a184c3af34",
+            "id": "39ec1edc5d99d623",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reports/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.51103591918945
+    "width": 334.5
   },
   "right": {
     "id": "e3f02b7a21658c66",
@@ -125,13 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Project Manager.md",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Manager"
+              "title": "Outline"
             }
           },
           {
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/LLM Methodology/In-Context Learning/Paper Review/Material/Notes.md",
+                "file": "docs/testing/TESTING_CONVENTIONS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for TESTING_CONVENTIONS"
             }
           },
           {
@@ -173,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/LLM Methodology/In-Context Learning/Paper Review/Material/Notes.md",
+                "file": "docs/testing/TESTING_CONVENTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from TESTING_CONVENTIONS"
             }
           },
           {
@@ -187,18 +186,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "templates/capabilities/capabilities-notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for capabilities-notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,53 +213,53 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "5f33cbeea60985ae",
+  "active": "39ec1edc5d99d623",
   "lastOpenFiles": [
-    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Building Consistent Workflows with Codex CLI & Agents SDK.md",
-    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/Project Manager.md",
-    "docs/Building Consistent Workflows with Codex CLI & Agents SDK/TASK_LIST.md",
-    "$_.agent/skills/create-plan/SKILL.md",
-    "docs/Building Consistent Workflows with Codex CLI & Agents SDK",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/pdf/SKILL.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/create-plan/SKILL.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/SKILL.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/SKILL.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/wrapped/SKILL.md",
-    "CODEX_WEB_SKILLS.md",
-    "docs/AgentSkills/openai/Agent Skills.md",
-    "README.md",
-    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/SKILL.md",
-    "AGENTS.md",
-    "$_.agent/skills/create-plan/LICENSE.txt",
-    "$_.agent/skills/create-plan",
-    "$_.agent/skills",
-    "$_.agent",
-    "$_.codex/skills/create-plan/SKILL.md",
-    "$_.codex/skills/create-plan/LICENSE.txt",
-    "$_.codex/skills/create-plan",
-    "$_.codex/skills",
-    "$_.codex",
-    "docs/AgentSkills/openai/skills/skills/$_.system/Untitled.md",
-    "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/scripts/list-skills.py",
+    "templates/capabilities/capabilities.md",
+    "templates/dev-target/decomposition-input.md",
+    "templates/capabilities/capabilities-notes.md",
+    "templates/capabilities/drafts/Untitled 3.md",
+    "templates/capabilities/drafts/Untitled 2.md",
+    "templates/capabilities/drafts/Untitled.md",
+    "templates/capabilities/drafts/Untitled 1.md",
+    "templates/capabilities/drafts/Untitled 4.md",
+    "templates/capabilities/drafts/Untitled 5.md",
+    "templates/decompose/history/prespec-analysis-v8/roadmap.md",
+    "templates/decompose/history/prespec-analysis-v10/roadmap.md",
+    "templates/capabilities-explore/seed-to-spec-explore.md",
+    "templates/capabilities-explore/notes-decomposition.md",
+    "templates/capabilities-explore/capabilities-basic-and-explore.md",
+    "templates/weaker-models/notes-weak-models.md",
+    "templates/weaker-models/Guide-Optimizing-for-Weaker-Models.md",
+    "templates/weaker-models",
+    "templates/icon-sets.md",
+    "templates/capabilities-explore",
+    "templates/dev-target",
+    "templates/explore/capabilities-basic-and-explore.md",
+    "templates/explore-capabilities/capabilities-basic-and-explore.md",
+    "templates/explore-capabilities",
+    "templates/decompose/drafts/Classification.md",
+    "templates/capabilities/drafts",
+    "templates/explore",
+    "templates/capabilities",
+    "templates/dev_target/decomposition-input.md",
+    "templates/dev_target/q",
+    "templates/dev_target",
+    "templates/dev_target/decomposition-input 1.md",
+    "templates/target/q",
+    "templates/target/decomposition-input.md",
+    "templates/target1/decomposition-input.md",
+    "templates/targe/decomposition-input.md",
+    "templates/Taxonomy of Key Non-Functional Aspects.md",
+    "agent/skills-template/jupyter-notebook/assets/jupyter-small.svg",
+    "agent/skills-template/spreadsheet/assets/spreadsheet-small.svg",
+    "agent/skills-template/develop-web-game/assets/game-small.svg",
+    "feasibility/ANSI Escape Console Color/Rendering Demo.jpeg",
+    "feasibility/ANSI Escape Console Color/Rendering Demo.jpg",
     "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/assets/skill-installer.png",
     "docs/AgentSkills/openai/skills/skills/$_.system/skill-installer/assets/skill-installer-small.svg",
-    "docs/AgentSkills/openai/skills/skills/$_.system/skill-creator/references/openai_yaml.md",
-    "docs/AgentSkills/openai/skills/skills/$_.system/skill-creator/SKILL.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/project_context.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/loop_quality.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/json_fix.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/execution_explanation.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/default.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-unit-test/references/commands.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/references/json_fix.md",
-    "docs/AgentSkills/openai/skills/skills/$_.experimental/codex-readiness-integration-test/references/generate_prompt.md",
     "docs/AgentSkills/openai/skills/skills/$_.curated/yeet/assets/yeet.png",
     "docs/AgentSkills/openai/skills/skills/$_.curated/yeet/assets/yeet-small.svg",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/vercel-deploy/assets/vercel.png",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/vercel-deploy/assets/vercel-small.svg",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/spreadsheet/assets/spreadsheet.png",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/spreadsheet/assets/spreadsheet-small.svg",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/transcribe/assets/transcribe.png",
-    "docs/AgentSkills/openai/skills/skills/$_.curated/transcribe/assets/transcribe-small.svg"
+    "docs/AgentSkills/openai/skills/skills/$_.curated/vercel-deploy/assets/vercel.png"
   ]
 }

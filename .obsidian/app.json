@@ -3,7 +3,7 @@
   "showUnsupportedFiles": true,
   "strictLineBreaks": true,
   "useTab": false,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "readableLineLength": false,
   "showInlineTitle": false,
   "pdfExportSettings": {
@@ -13,5 +13,6 @@
     "downscalePercent": 54
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": true
+  "promptDelete": true,
+  "showLineNumber": true
 }
