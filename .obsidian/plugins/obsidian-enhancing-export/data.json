@@ -47,6 +47,9 @@
     },
     {
       "name": "Bibliography"
+    },
+    {
+      "name": "PowerPoint (.pptx)"
     }
   ],
   "defaultExportDirectoryMode": "Auto",
@@ -54,7 +57,7 @@
   "env": {},
   "showExportProgressBar": true,
   "lastExportDirectory": {
-    "win32": "C:\\Users\\evgeny\\Downloads\\LO Export"
+    "win32": "C:\\Users\\evgeny\\Downloads"
   },
   "lastExportType": "Word (.docx)"
 }

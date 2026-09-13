@@ -6183,9 +6183,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       id: "add-props-to-tab-group",
       name: "Add props to tabs in active tab group",
       callback: async () => {
-        const files = this._getFilesFromTabGroup(
-          this.app.workspace.getMostRecentLeaf()
-        );
+        const files = this._getFilesFromTabGroup(this.app.workspace.activeLeaf);
         if (!files || !files.length) {
           new import_obsidian7.Notice(
             "No open tabs in the active tab group to add properties to.",
@@ -6199,7 +6197,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
     this.registerEvent(
       this.app.workspace.on("tab-group-menu", (menu) => {
         const obj = this._getFilesFromTabGroup(
-          this.app.workspace.getMostRecentLeaf()
+          this.app.workspace.getLeaf(false)
         );
         menu.addItem((item) => {
           item.setIcon("archive").setTitle("Add props from all tabs").onClick(() => this.createPropModal(obj));
@@ -6211,7 +6209,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       name: "Remove props from tabs in active tab group",
       callback: async () => {
         const files = this._getFilesFromTabGroup(
-          this.app.workspace.getMostRecentLeaf()
+          this.app.workspace.getLeaf(false)
         );
         if (!files || !files.length) {
           new import_obsidian7.Notice(
@@ -6226,7 +6224,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
     this.registerEvent(
       this.app.workspace.on("tab-group-menu", (menu) => {
         const obj = this._getFilesFromTabGroup(
-          this.app.workspace.getMostRecentLeaf()
+          this.app.workspace.getLeaf(false)
         );
         menu.addItem((item) => {
           item.setIcon("archive").setTitle("Remove props from all tabs").onClick(() => this.createRemoveModal(obj));

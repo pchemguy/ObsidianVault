@@ -1,7 +1,6 @@
 [
   "obsidian-languagetool-plugin",
   "obsidian-plugin-groups",
-  "obsidian-tasks-plugin",
   "obsidian-icon-folder",
   "obsidian-emoji-toolbar",
   "tag-wrangler",
@@ -12,7 +11,6 @@
   "obsidian-latex-suite",
   "obsidian-excel-to-markdown-table",
   "obsidian-plantuml",
-  "obsidian-qrcode-plugin",
   "webpage-html-export",
   "obsidian-enhancing-export",
   "obsidian-markdown-export-plugin",

@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bec429a77bc3dcf8",
+        "id": "672e84515730b022",
         "type": "tabs",
         "children": [
           {
-            "id": "39ec1edc5d99d623",
+            "id": "b74dbb2eedd6dc83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -37,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reports/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 335.5
   },
   "right": {
     "id": "e3f02b7a21658c66",
@@ -125,8 +132,9 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -186,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/capabilities/capabilities-notes.md"
+                "file": "parallel_batch_processor/EXPLORE_DRIVE.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for capabilities-notes"
+              "title": "File properties"
             }
           }
         ],
@@ -197,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 549.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,44 +221,43 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "39ec1edc5d99d623",
+  "active": "b74dbb2eedd6dc83",
   "lastOpenFiles": [
-    "templates/capabilities/capabilities.md",
-    "templates/dev-target/decomposition-input.md",
-    "templates/capabilities/capabilities-notes.md",
-    "templates/capabilities/drafts/Untitled 3.md",
-    "templates/capabilities/drafts/Untitled 2.md",
-    "templates/capabilities/drafts/Untitled.md",
-    "templates/capabilities/drafts/Untitled 1.md",
-    "templates/capabilities/drafts/Untitled 4.md",
-    "templates/capabilities/drafts/Untitled 5.md",
-    "templates/decompose/history/prespec-analysis-v8/roadmap.md",
-    "templates/decompose/history/prespec-analysis-v10/roadmap.md",
-    "templates/capabilities-explore/seed-to-spec-explore.md",
-    "templates/capabilities-explore/notes-decomposition.md",
-    "templates/capabilities-explore/capabilities-basic-and-explore.md",
-    "templates/weaker-models/notes-weak-models.md",
-    "templates/weaker-models/Guide-Optimizing-for-Weaker-Models.md",
-    "templates/weaker-models",
-    "templates/icon-sets.md",
-    "templates/capabilities-explore",
-    "templates/dev-target",
-    "templates/explore/capabilities-basic-and-explore.md",
-    "templates/explore-capabilities/capabilities-basic-and-explore.md",
-    "templates/explore-capabilities",
-    "templates/decompose/drafts/Classification.md",
-    "templates/capabilities/drafts",
-    "templates/explore",
-    "templates/capabilities",
-    "templates/dev_target/decomposition-input.md",
-    "templates/dev_target/q",
-    "templates/dev_target",
-    "templates/dev_target/decomposition-input 1.md",
-    "templates/target/q",
-    "templates/target/decomposition-input.md",
-    "templates/target1/decomposition-input.md",
-    "templates/targe/decomposition-input.md",
-    "templates/Taxonomy of Key Non-Functional Aspects.md",
+    "parallel_batch_processor/parallel_batch_processor_SPEC.md",
+    "parallel_batch_processor/docs/api.md",
+    "parallel_batch_processor/parallel_batch_processor_IMPLEMENTATION_PLAN.md",
+    "parallel_batch_processor/README.md",
+    "parallel_batch_processor/src/demo.md",
+    "parallel_batch_processor/docs/performance.md",
+    "parallel_batch_processor/docs/failure-semantics.md",
+    "parallel_batch_processor/EXPLORE_DRIVE.md",
+    "parallel_batch_processor/docs/logging-and-progress.md",
+    "parallel_batch_processor/docs/architecture.md",
+    "parallel_batch_processor/tests/unit/__pycache__/test_worker.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_sink.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_public_modules.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_models.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_logging.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_job_construction.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_exceptions.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__/test_configuration.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor/tests/unit/__pycache__",
+    "parallel_batch_processor/tests/integration/__pycache__/test_spawn.cpython-314-pytest-9.1.1.pyc",
+    "parallel_batch_processor_SPEC.md",
+    "parallel_batch_processor_IMPLEMENTATION_PLAN.md",
+    "parallel_batch_processor/docs/testing.md",
+    "parallel_batch_processor/docs/callbacks-and-resources.md",
+    "ruwiktionary_rawdb/README.md",
+    "parallel_batch_processor/parallel_batch_processor_ARCHITECTURE_REVISION_SPEC.md",
+    "parallel_batch_processor/parallel_batch_processor_ARCHITECTURE_REVISION_IMPLEMENTATION_PLAN.md",
+    "ruwiktionary_rawdb/README_.md",
+    "ruwiktionary_rawdb/EXPLORE_DRIVE.md",
+    "archive_lines/EXPLORE_DRIVE.md",
+    "parallel_processor/EXPLORE_DRIVE.md",
+    "parallel_processor/parallel_batch_processor_SPEC.md",
+    "ruwiktionary_rawdb/ruwiktionary_rawdb_IMPLEMENTATION_PLAN.md",
+    "ruwiktionary_rawdb/ruwiktionary_rawdb_IMPLEMENTATION_PLAN (1).md",
+    "ruwiktionary_rawdb/ruwiktionary_jsonl_to_sqlite_SPEC.md",
     "agent/skills-template/jupyter-notebook/assets/jupyter-small.svg",
     "agent/skills-template/spreadsheet/assets/spreadsheet-small.svg",
     "agent/skills-template/develop-web-game/assets/game-small.svg",
