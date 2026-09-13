@@ -2,7 +2,7 @@
   "cssTheme": "",
   "translucency": false,
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "system",
   "nativeMenus": true,
   "enabledCssSnippets": [
     "Remove external link space"
