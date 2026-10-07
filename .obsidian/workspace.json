@@ -117,16 +117,6 @@
             }
           },
           {
-            "id": "f4025664405d1e48",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
             "id": "f01a4bf7adb81683",
             "type": "leaf",
             "state": {
@@ -201,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,11 +210,11 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "b74dbb2eedd6dc83",
+  "active": "f01a4bf7adb81683",
   "lastOpenFiles": [
+    "README.md",
     "Primary for Obsidian.md",
     "Untitled.md~RF19907f5b.TMP",
-    "README.md",
     "parallel_batch_processor/parallel_batch_processor_SPEC.md",
     "parallel_batch_processor/docs/api.md",
     "parallel_batch_processor/parallel_batch_processor_IMPLEMENTATION_PLAN.md",
