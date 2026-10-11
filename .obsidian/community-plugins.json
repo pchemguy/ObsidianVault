@@ -8,7 +8,6 @@
   "editing-toolbar",
   "obsidian-importer",
   "obsidian-style-settings",
-  "obsidian-latex-suite",
   "obsidian-excel-to-markdown-table",
   "obsidian-plantuml",
   "webpage-html-export",
@@ -17,9 +16,7 @@
   "better-export-pdf",
   "obsidian-advanced-uri",
   "adamantine-pick",
-  "mathlive",
   "chem",
   "ketcher",
-  "obsidian-tikzjax",
   "obsidian-plugin-toc"
 ]
