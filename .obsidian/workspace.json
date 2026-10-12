@@ -203,10 +203,7 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "webpage-html-export:Export as HTML": false,
-      "ketcher:Create new structure": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f01a4bf7adb81683",
